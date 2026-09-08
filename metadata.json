@@ -1,0 +1,6 @@
+{
+  "name": "MAXALMINA – Customer History Report (CHR)",
+  "description": "Sistem Customer History Report & Maintenance Monitoring PT. MAXALMINA untuk pencatatan, monitoring, analisis kerusakan, biaya perbaikan, dan aktivitas armada transportasi gas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
